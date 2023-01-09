@@ -1,2 +1,10 @@
-# ITM891
- Course repository for CSE 801A/ITM891
+# ITM891 Class Repository for Jiran Li
+This repository is for CSE 801A/ITM891 learning.
+ 
+I hope to learn Python in this course, practice, and take notes. 
+ * practical python skills
+ * establish my own project notebooks
+ * different types of analysis method
+
+
+ [Homepage for ITM891](https://d2l.msu.edu/d2l/home/1656899)
