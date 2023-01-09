@@ -7,4 +7,5 @@ I hope to learn Python in this course, practice, and take notes.
  * different types of analysis method
 
 
- [Homepage for ITM891](https://d2l.msu.edu/d2l/home/1656899)
+ [Homepage for ITM 891](https://d2l.msu.edu/d2l/home/1656899)
+ [Homepage for CSE 801A](https://d2l.msu.edu/d2l/home/1670424)
