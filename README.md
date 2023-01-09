@@ -8,7 +8,7 @@ Three things I hope to learn are:
  * establish my own project notebooks
  * different types of analysis method
 
-
- [Homepage for ITM 891](https://d2l.msu.edu/d2l/home/1656899) 
  
  [Homepage for CSE 801A](https://d2l.msu.edu/d2l/home/1670424)
+ 
+ [Homepage for ITM 891](https://d2l.msu.edu/d2l/home/1656899) 
